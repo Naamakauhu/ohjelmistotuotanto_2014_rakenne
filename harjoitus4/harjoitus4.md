@@ -47,17 +47,19 @@ käyttäjän roolien perusteella.
 
 ##### (prosessimalli)
 - onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-* Todennäköisesti projektisuunnitelmassa, en voi tarkistaa koska wiki.metropolia.fi alhaalla "502"
+* prosessimallia ei ole kuvattu millään lailla
 - resurssit? budjetti?
-* ...
+* Henkilöresurssitarve projekti merkattu pienellä kaaviolla. Budjetti ilmoitettu lyhykäisesti.
 - riskianalyysi? 
-* ...
+* ei löydetty riskianalyysiä
 
 ##### (johtopäätökset, oma mielipide)
 - mikä tekee hyvän dokumentin?
-* (Ei ainakaan tämä)
+* Kurssin pohjamallin kaltainen ja hyvin kirjoitettu
 - onko tämä sellainen? miksi?
+* ei ole, kurssin pohjamallia ei ole seurattu juuri ollenkaan.
 - kaavioiden käyttö: laatu? määrä? hyöty? 
+* Tässä dokumentissa erittäin vajaavainen.
 
 #### 3. Palauta linkki tiedostoosi Githubissa tuubiin yhdessä B-kohdan vastauksen kanssa. Pienryhmistä (2-3 hlö) jokainen jäsen palauttaa linkin erikseen, jotta saa läsnäolopisteet ja mahdollisuuden nähdä muiden vastauksia.
 #### 4. Valmistaudu esittelemään työsi.
