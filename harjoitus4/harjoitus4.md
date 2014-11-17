@@ -2,64 +2,64 @@
 
 ##### (johdanto)
 - mikä projekti?
-* Metropolian Peppi-palvelun tekninen vaatimusmäärittely.
+    Metropolian Peppi-palvelun tekninen vaatimusmäärittely.
 - lukijakunta, kenelle dokumentti on tarkoitettu?
-* Koulutusten suunnittelijat ja opettajat.
+    Koulutusten suunnittelijat ja opettajat.
 - tilanne?
-* Projekti valmis - viimeisin versio lähetetty ohjausryhmälle.
+    Projekti valmis - viimeisin versio lähetetty ohjausryhmälle.
 - motivaatio, miksi dokumentti on luotu?
-* Projektin nopeuttamiseksi ja helpottamiseksi?
+    Projektin nopeuttamiseksi ja helpottamiseksi?
 - dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös [Wikipediasta löytyvä runko](http://fi.wikipedia.org/wiki/Ohjelmiston_vaatimusm%C3%A4%C3%A4rittely).
-* Käyttötapauksia ei ole ollenkaan käyty läpi, arkkitehtuuri on perusteellisesti käyty läpi. Vaatimuksissa on lueteltu vain ei-toiminnalliset vaatimukset.
+    Käyttötapauksia ei ole ollenkaan käyty läpi, arkkitehtuuri on perusteellisesti käyty läpi. Vaatimuksissa on lueteltu vain ei-toiminnalliset vaatimukset.
 
 
 ##### (käyttötapaukset)
 - mitä sillä voi tehdä?
-* En tiedä.
+    En tiedä.
 - käyttötapauskaavio(t)?
-* Ei ole.
+    Ei ole.
 - kuinka yksityiskohtaisesti kuvattu?
-* Ei ole.
+    Ei ole.
 - skenaariot? tarinat?
-* Ei ole.
+    Ei ole.
 
 ##### (järjestelmän yleisrakenne) 
 - MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
-* Ainoa kaavio koko dokumentissa on Pepin käyttöliittymä- ja palvelukerros kaavio.
+    Ainoa kaavio koko dokumentissa on Pepin käyttöliittymä- ja palvelukerros kaavio.
 
 ##### (funktionaaliset & ei-funktionaaliset vaatimukset)
 - esitetäänkö listauksena?
-* Ei. Vaatimukset esitetään aiheittain selitettynä.
+    Ei. Vaatimukset esitetään aiheittain selitettynä.
 - tunnistetiedot? numeroitu?
-* Ei numerointia / tunnisteita.
+    Ei numerointia / tunnisteita.
 - jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
-* Ei määritelty.
+    Ei määritelty.
 
 ##### (miltä se näyttää)
 - onko käyttöliittymästä kuvia?
-* Ei ole.
+    Ei ole.
 - luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-* Ei ole.
+    Ei ole.
 - miten eri näkymien (views) välillä liikutaan?
-* Peppi-projektissa toteutetaan opettajan ja suunnittelijan työpöytä. Näkymät hakevat
+    Peppi-projektissa toteutetaan opettajan ja suunnittelijan työpöytä. Näkymät hakevat
 tietoa palvelukerrokselta julkaistujen rajapintojen avulla. Näkymät suodattavat toimintoja
 käyttäjän roolien perusteella. 
 
 ##### (prosessimalli)
 - onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-* prosessimallia ei ole kuvattu millään lailla
+    prosessimallia ei ole kuvattu millään lailla
 - resurssit? budjetti?
-* Henkilöresurssitarve projekti merkattu pienellä kaaviolla. Budjetti ilmoitettu lyhykäisesti.
+    Henkilöresurssitarve projekti merkattu pienellä kaaviolla. Budjetti ilmoitettu lyhykäisesti.
 - riskianalyysi? 
-* ei löydetty riskianalyysiä
+    ei löydetty riskianalyysiä
 
 ##### (johtopäätökset, oma mielipide)
 - mikä tekee hyvän dokumentin?
-* Kurssin pohjamallin kaltainen ja hyvin kirjoitettu
+    Kurssin pohjamallin kaltainen ja hyvin kirjoitettu
 - onko tämä sellainen? miksi?
-* ei ole, kurssin pohjamallia ei ole seurattu juuri ollenkaan.
+    ei ole, kurssin pohjamallia ei ole seurattu juuri ollenkaan.
 - kaavioiden käyttö: laatu? määrä? hyöty? 
-* Tässä dokumentissa erittäin vajaavainen.
+    Tässä dokumentissa erittäin vajaavainen.
 
 #### 3. Palauta linkki tiedostoosi Githubissa tuubiin yhdessä B-kohdan vastauksen kanssa. Pienryhmistä (2-3 hlö) jokainen jäsen palauttaa linkin erikseen, jotta saa läsnäolopisteet ja mahdollisuuden nähdä muiden vastauksia.
 #### 4. Valmistaudu esittelemään työsi.
